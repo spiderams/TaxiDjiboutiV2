@@ -1,0 +1,6 @@
+[
+  "expo-location",
+  {
+    "locationAlwaysAndWhenInUsePermission": "TaxiDjibouti utilise votre position pour choisir votre départ et suivre vos courses."
+  }
+]
